@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1034926732103",
+    "firebase_url": "https://fir-teori-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-teori",
+    "storage_bucket": "fir-teori.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034926732103:android:c6c584e7bdfc84fcfd9262",
+        "android_client_info": {
+          "package_name": "com.example.firebaseteori"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWx53lD2n9N-XoJW5xUglvRRZ1ihh5ycQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
